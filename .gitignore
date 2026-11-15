@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+models/
+outputs/
+.venv/
+*.safetensors
+*.wav
+*.mp3
+!samples/*.wav
